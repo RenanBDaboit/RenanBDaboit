@@ -1,1 +1,3 @@
-[![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBDaboit&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentageicons=true&theme=dark)](https://github.com/RenanBDaboit/RenanBDaboit)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RenanBDaboit&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBDaboit&layout=compact&theme=dracula)
