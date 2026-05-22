@@ -5,5 +5,5 @@
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=RenanBDaboit&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RenanBDaboit&theme=dracula&hide_border=true&area=true" alt="Gráfico de Atividade" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=RenanBDaboit&theme=dracula&hide_border=true&area=true" alt="Gráfico de Atividade" />
 </div>
