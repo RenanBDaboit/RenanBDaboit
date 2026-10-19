@@ -6,6 +6,4 @@
   <img src="https://streak-stats.demolab.com/?user=RenanBDaboit&theme=dracula&hide_border=true" alt="GitHub Streak" />
   <br><br>
 
-  
-  ![Views](https://komarev.com/ghpvc/?username=RenanBDaboit&label=Profile%20Views&color=0077B5&style=for-the-badge)
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RenanBDaboit&show_icons=true&theme=tokyonight&hide_border=true" />
